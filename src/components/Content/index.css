@@ -1,0 +1,4 @@
+@import '~rsuite/dist/rsuite.min.css';
+.CardGroup{
+    flex-flow: wrap;
+}
